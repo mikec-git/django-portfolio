@@ -1,3 +1,4 @@
+"""Register Job app into project"""
 from django.contrib import admin
 
 # Register your models here.
